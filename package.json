@@ -1,0 +1,23 @@
+{
+  "name": "smart-ppm-backend",
+  "version": "1.0.0",
+  "description": "A Smart Petrol Pump Management System",
+  "main": "/dist/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albiummid/smart-ppm_backend.git"
+  },
+  "keywords": [
+    "PPM",
+    "MS"
+  ],
+  "author": "Albi Ummid Tanvir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albiummid/smart-ppm_backend/issues"
+  },
+  "homepage": "https://github.com/albiummid/smart-ppm_backend#readme"
+}
